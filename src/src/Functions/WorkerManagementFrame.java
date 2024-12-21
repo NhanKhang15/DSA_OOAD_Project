@@ -1,5 +1,4 @@
 package Functions;
-// Lỗi nút search với hàm worker chưa chỉnh xong
 import Functions.AddFctsFrame.SearchingFrame;
 import Functions.AddFctsFrame.SortingFrame;
 import Functions.AddFctsFrame.UndoRedoFrame;
